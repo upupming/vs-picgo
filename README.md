@@ -1,4 +1,5 @@
 # vs-picgo(Vscode Plugin for PicGo)
+[![Build Status](https://travis-ci.org/Spades-S/vs-picgo.svg?branch=dev)](https://travis-ci.org/Spades-S/vs-picgo)
 
 > [PicGo](https://github.com/PicGo)的vscode插件
 
